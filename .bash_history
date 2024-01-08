@@ -77,3 +77,62 @@ git log
 git remote add origin https://github.com/Tdgopal/First.git
 git push origin master
 sudo su -
+git branch
+git branch test
+ls
+git branch
+git checkout test
+git branch
+git branch test1
+git branch
+git pull origin master
+ls
+git checkout test1
+git pull origin master
+ls
+vim file1
+git add .
+ls
+git status
+git checkout test
+ls
+git add .
+git status
+git merge test1
+git merge file1
+ls
+vim file1
+git branch
+git checkout test1
+ls
+vim file1
+git branch
+touch test3
+git add .
+ls
+git commit -m "3rd demo file
+git checkout master
+sudo -su -
+clear
+ls
+git branch
+r
+r
+which git
+ls
+git push origin file1
+git
+git status
+git ls
+clear
+ls.
+ls .
+git init
+.git
+. git
+ls -l
+ls -la
+git remote add origin https://github.com/Tdgopal/Demo2.git
+git push origin master
+r
+sudo su -
